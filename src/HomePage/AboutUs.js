@@ -6,6 +6,7 @@ import Arr from "../pictures/arrow.svg";
 function AboutUS() {
     return(
         <div className="AboutUs">
+            <div className="about-1"><h1 className="about11">About Us</h1></div>
             <div className="container">
             <img src={About} width="100%" height="auto" alt="error"/>
             <div class="centered5"><h1><a className="k" href="#d">Click to drog down</a></h1></div>
